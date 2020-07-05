@@ -75,14 +75,15 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [params]
-address = "上海市普陀区中山北路3663号华东师范大学 计算机楼"
+address = "上海市普陀区中山北路3663号 华东师范大学（中山北路校区） 计算机楼"
 author = "SuBin"
 contact_form_action = "#"
 description = "This is meta description"
-email = "webmaster@educenter.com"
+email = "webmaster@cc.ecnu.edu.cn"
 google_analitycs_id = ""
 logo = "images/logo.png"
 mobile = "021-62233333"
+social = []
 top_header = false
 [params.map]
 enable = true
@@ -119,23 +120,3 @@ preloader = "images/preloader.gif"
 enable = false
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
-[[params.social]]
-icon = "ti-facebook"
-link = "#"
-title = "facebook"
-[[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-title = "twitter"
-[[params.social]]
-icon = "ti-instagram"
-link = "#"
-title = "instagram"
-[[params.social]]
-icon = "ti-github"
-link = "#"
-title = "github"
-[[params.social]]
-icon = "ti-linkedin"
-link = "#"
-title = "linkedin"
