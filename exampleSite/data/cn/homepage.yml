@@ -19,8 +19,8 @@ slider:
       enable: true
       label: Apply now
       link: contact
-  - title: 2020年上海市高等学校信息技术等级考试
-    content: 上海市高等学校信息技术等级考试
+  - title: 2020年上海市高等学校信息技术等级考试（华东师范大学考点）
+    content: 上海教育考试院 上海市高等学校信息技术等级考试
     animation_in: left
     animation_out: right
     button:
