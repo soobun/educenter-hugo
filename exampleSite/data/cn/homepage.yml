@@ -28,7 +28,7 @@ slider:
       label: Apply now
       link: contact
 banner_feature:
-  enable: true
+  enable: false
   image: images/banner/banner-feature.png
   feature_item:
   - name: 高性能计算
