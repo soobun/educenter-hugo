@@ -4,7 +4,7 @@ slider:
   bg_image: images/banner/banner-1.jpg
   slider_item:
   - title: 数据 + 计算 + 教育
-    content: 华东师范大学数据科学与工程学院 高性能计算中心暨大学计算机科学教育教学部
+    content: 这就是我们\n华东师范大学数据科学与工程学院 高性能计算中心暨大学计算机科学教育教学部
     animation_in: left
     animation_out: right
     button:
@@ -12,14 +12,14 @@ slider:
       label: Apply now
       link: contact
   - title: 2021年华东师范大学本科生计算机应用能力大赛
-    content: 2021年华东师范大学本科生计算机应用能力大赛
+    content: 2021年华东师范大学本科生计算机应用能力大赛即将接受报名，详情请点击浏览。
     animation_in: left
     animation_out: right
     button:
       enable: true
       label: Apply now
       link: contact
-  - title: 滚动新闻测试3
+  - title: 2020年上海市高等学校信息技术等级考试
     content: 上海市高等学校信息技术等级考试
     animation_in: left
     animation_out: right
