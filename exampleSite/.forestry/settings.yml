@@ -105,8 +105,8 @@ sections:
 - type: heading
   label: Data
 - type: directory
-  path: exampleSite/data/en
-  label: Data (en)
+  path: exampleSite/data/cn
+  label: Data (cn)
   create: all
   match: "**/*"
 - type: directory
