@@ -1,10 +1,12 @@
 ---
 title: 联系我们
 bg_image: images/backgrounds/page-title.jpg
-description:
+description: 
+menu:
+  main:
+    weight: 6
 
 ---
-
 #### 中山北路校区
 上海市普陀区中山北路3663号（200062） 华东师范大学 计算机楼
 #### 闵行校区

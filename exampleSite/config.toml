@@ -34,16 +34,20 @@ URL = "research"
 name = "research"
 weight = 1
 [[menu.main]]
+name = "运行状态"
+parent = "高性能计算"
+weight = 2
+[[menu.main]]
 name = "上海市高等学校信息技术等级考试"
 parent = "大学计算机科学教育"
 weight = 4
 [[menu.main]]
-name = "计算机应用能力大赛"
-parent = "大学计算机科学教育"
-weight = 3
-[[menu.main]]
 name = "科研开发"
 parent = "关于我们"
+weight = 3
+[[menu.main]]
+name = "计算机应用能力大赛"
+parent = "大学计算机科学教育"
 weight = 3
 [[menu.main]]
 name = "实验机房"
@@ -52,7 +56,7 @@ weight = 2
 [[menu.main]]
 name = "使用手册"
 parent = "高性能计算"
-weight = 2
+weight = 3
 [[menu.main]]
 name = "历史沿革"
 parent = "关于我们"
@@ -73,9 +77,6 @@ weight = 1
 URL = "about"
 name = "关于我们"
 weight = 1
-[[menu.main]]
-name = "联系我们"
-weight = 6
 [[menu.main]]
 name = "大学计算机科学教育"
 weight = 5
