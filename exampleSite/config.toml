@@ -5,20 +5,14 @@ paginate = "6"
 summaryLength = "10"
 theme = "educenter-hugo"
 title = "高性能计算中心暨大学计算机科学教育教学部"
-[Languages.en]
+[Languages.cn]
 contentDir = "content/english"
 copyright = "&copy; 2020 华东师范大学数据科学与工程学院 高性能计算中心暨大学计算机科学教育教学部"
 home = "主页"
-languageCode = "en-us"
-languageName = "En"
+languageCode = "zh-cn"
+languageName = "中文"
 weight = 1
-[Languages.fr]
-contentDir = "content/french"
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
-home = "Accueil"
-languageCode = "fr-fr"
-languageName = "Fr"
-weight = 2
+
 [[menu.footer]]
 URL = "teacher"
 name = "teacher"
