@@ -90,8 +90,11 @@ weight = 3
 name = "新闻公告"
 weight = 2
 [params]
-address = """（中山北路校区）上海市普陀区中山北路3663号 计算机楼
-（闵行校区）上海市闵行区东川路500号 实验A楼"""
+address = """
+上海市普陀区中山北路3663号 计算机楼
+
+上海市闵行区东川路500号 实验A楼
+"""
 author = "SuBin"
 contact_form_action = "#"
 description = "This is meta description"
