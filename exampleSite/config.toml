@@ -20,55 +20,71 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.footer]]
-URL = "research"
-name = "research"
-weight = 1
-[[menu.footer]]
-URL = "scholarship"
-name = "scholarship"
-weight = 2
-[[menu.footer]]
-URL = "event"
-name = "event"
-weight = 3
+URL = "teacher"
+name = "teacher"
+weight = 5
 [[menu.footer]]
 URL = "notice"
 name = "notice"
 weight = 4
 [[menu.footer]]
-URL = "teacher"
-name = "teacher"
-weight = 5
+URL = "event"
+name = "event"
+weight = 3
+[[menu.footer]]
+URL = "scholarship"
+name = "scholarship"
+weight = 2
+[[menu.footer]]
+URL = "research"
+name = "research"
+weight = 1
 [[menu.main]]
-name = "联系我们"
-weight = 6
+name = "上海市高等学校信息技术等级考试"
+parent = "大学计算机科学教育"
+weight = 4
+[[menu.main]]
+name = "计算机应用能力大赛"
+parent = "大学计算机科学教育"
+weight = 3
+[[menu.main]]
+name = "科研开发"
+parent = "关于我们"
+weight = 3
 [[menu.main]]
 name = "实验机房"
 parent = "大学计算机科学教育"
 weight = 2
 [[menu.main]]
-name = "研究生"
-parent = "课程设置"
+name = "使用手册"
+parent = "高性能计算"
 weight = 2
 [[menu.main]]
-name = "本科生"
-parent = "课程设置"
+name = "历史沿革"
+parent = "关于我们"
+weight = 2
+[[menu.main]]
+name = "平台概况"
+parent = "高性能计算"
 weight = 1
 [[menu.main]]
 name = "课程设置"
 parent = "大学计算机科学教育"
 weight = 1
 [[menu.main]]
+name = "中心介绍"
+parent = "关于我们"
+weight = 1
+[[menu.main]]
+URL = "about"
+name = "关于我们"
+weight = 1
+[[menu.main]]
+name = "联系我们"
+weight = 6
+[[menu.main]]
 name = "大学计算机科学教育"
 weight = 5
-[[menu.main]]
-name = "使用手册"
-parent = "高性能计算"
-weight = 2
-[[menu.main]]
-name = "平台概况"
-parent = "高性能计算"
-weight = 1
 [[menu.main]]
 name = "高性能计算"
 weight = 4
@@ -78,22 +94,6 @@ weight = 3
 [[menu.main]]
 name = "新闻公告"
 weight = 2
-[[menu.main]]
-name = "科研开发"
-parent = "关于我们"
-weight = 3
-[[menu.main]]
-name = "历史沿革"
-parent = "关于我们"
-weight = 2
-[[menu.main]]
-name = "中心介绍"
-parent = "关于我们"
-weight = 1
-[[menu.main]]
-URL = "about"
-name = "关于我们"
-weight = 1
 [params]
 address = "上海市普陀区中山北路3663号 华东师范大学（中山北路校区） 计算机楼"
 author = "SuBin"
