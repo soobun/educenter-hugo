@@ -78,14 +78,14 @@ event:
 funfacts:
   enable: true
   funfact_item:
-  - name: TEACHERS
-    count: "60"
-  - name: COURSES
-    count: "50"
-  - name: STUDENTS
-    count: "1000"
-  - name: SATISFIED CLIENT
-    count: "1400"
+  - name: 教职员工
+    count: "66"
+  - name: 开设课程
+    count: "88"
+  - name: 高性能计算峰值
+    count: "1000 TFlops"
+  - name: 参与学生
+    count: "3500"
 blog:
   enable: true
   title: 新闻公告

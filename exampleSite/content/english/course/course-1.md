@@ -1,23 +1,23 @@
 ---
-title: "Photography"
+title: "大学信息技术——数字媒体基础"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "课程代码：COMC0031111992"
 # course thumbnail
-image: "images/courses/course-1.jpg"
+image: "images/courses/media1.png"
 # taxonomy
-category: "Photography"
+category: "通识必修课"
 # teacher
-teacher: "Clark Malik"
+teacher: "苏斌"
 # duration
-duration : "06 Month"
+duration : "秋季学期"
 # weekly
-weekly : "03 hours"
-# course fee
-fee : "From: $699"
+weekly : "4学时"
+# course type
+course_type : "通识必修课"
 # apply url
 apply_url : "#"
 # type
@@ -25,47 +25,24 @@ type: "course"
 ---
 
 
-### About Course
+### 课程简介
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.</p>
+本课程是非计算机专业文科生的第一门信息技术基础课程，课程主要包括信息技术基础、数据与数据文件管理、信息安全和数字媒体基础与实践四个教学模块。
+信息技术基础知识点包括信息技术概述、数据在信息设备的存储、软件及软件系统、新一代信息技术和信息素养等；数据与数据文件管理知识点包括数据获取方式、数据文件管理和数据处理基础等；信息安全知识点包括信息社会的道德伦理要求、信息社会的隐私保护和信息时代的安全技术等；数字媒体基础与实践知识点包括对数字媒体的认识、数字声音的获取与处理、数字图像的获取与处理、动画制作基础、视频及其基本编辑、数字媒体集成。本课程主要采用课堂教学、实验教学相结合的多样化教学手段，运用讲授、问答、讨论、演示、实践等教学方法，注重实际上机实践，突出实践性和应用性。
+修读本课程要求学生有一定的计算机基本知识和操作技能、基本的信息意识和处理能力。
 
-### Requirements
+### 学分
+
+2学分
 
 
+### 教材
 
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-
-
-### How to Apply
-
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
+* 《大学信息技术》 华东师范大学出版社 2019年出版
+* 《数字媒体技术与实践》 华东师范大学出版社 2019年出版
 
 
-### Fees and Funding
+### 参考书目
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+* 《计算机应用基础教程》 华东师范大学出版社 2015年出版
+* 《计算机应用基础实验指导》 华东师范大学出版社 2015年出版

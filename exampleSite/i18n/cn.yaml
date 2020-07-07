@@ -73,3 +73,5 @@
   translation: Our Teachers
 - id: download
   translation: Download
+- id: course_type
+  translation: 课程类别
