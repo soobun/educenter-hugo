@@ -9,8 +9,6 @@ sections:
   label: 关于我们
   create: all
   match: "**/*"
-- type: heading
-  label: 关于我们
 upload_dir: exampleSite/static/images
 public_path: "/images"
 front_matter_path: ''
