@@ -38,16 +38,16 @@ name = "上海市高等学校信息技术等级考试"
 parent = "大学计算机科学教育"
 weight = 4
 [[menu.main]]
+name = "科研开发"
+parent = "关于我们"
+weight = 3
+[[menu.main]]
 name = "计算机应用能力大赛"
 parent = "大学计算机科学教育"
 weight = 3
 [[menu.main]]
 name = "使用手册"
 parent = "高性能计算"
-weight = 3
-[[menu.main]]
-name = "科研开发"
-parent = "关于我们"
 weight = 3
 [[menu.main]]
 name = "运行状态"
