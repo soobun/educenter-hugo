@@ -34,9 +34,9 @@
 - id: related_course
   translation: 相关课程
 - id: duration
-  translation: duration
+  translation: 开课学期
 - id: weekly
-  translation: weekly
+  translation: 周学时
 - id: fee
   translation: fee
 - id: teacher
