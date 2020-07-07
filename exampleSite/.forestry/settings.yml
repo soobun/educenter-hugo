@@ -5,6 +5,30 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: exampleSite/content/english/contact
+  label: 联系我们
+  create: all
+  match: "**/*"
+- type: directory
+  path: exampleSite/content/english/course
+  label: 课程设置
+  create: all
+  match: "**/*"
+  templates:
+  - course
+- type: directory
+  path: exampleSite/content/english/teacher
+  label: 教职员工
+  create: all
+  match: "**/*"
+  templates:
+  - teacher
+- type: directory
+  path: exampleSite/content/english/history
+  label: 历史沿革
+  create: all
+  match: "**/*"
+- type: directory
   path: exampleSite/content/english/about
   label: 关于我们
   create: all
