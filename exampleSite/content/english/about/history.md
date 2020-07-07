@@ -2,6 +2,9 @@
 bg_image = ""
 description = ""
 title = "历史沿革"
+[menu.main]
+parent = "关于我们"
+weight = 2
 
 +++
 ### 1984
