@@ -1,5 +1,5 @@
 ---
-title: "大学信息技术（数字媒体基础）"
+title: "大学信息技术(数字媒体基础)"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
