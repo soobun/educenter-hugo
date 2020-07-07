@@ -210,9 +210,14 @@
   <div class="container">
     <div class="row">
       <div class="col-12">
+        <h2 class="section-title">{{ $data.homepage.notice.title }}</h2>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12">
         <ul class="list-unstyled">
           <!-- notice item -->
-          {{ range first 5 .Data.Pages }}
+          {{ range first 5 (where site.RegularPages "Type" "notice") }}
           {{ .Render "notice" }}
           {{ end }}
         </ul>

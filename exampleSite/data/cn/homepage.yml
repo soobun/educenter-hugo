@@ -88,7 +88,7 @@ funfacts:
     count: "3500"
 blog:
   enable: true
-  title: 新闻
+  title: 最近新闻
 notice:
   enable: true
-  title: 通知公告
+  title: 最新通知
