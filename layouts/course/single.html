@@ -13,7 +13,7 @@
     <!-- course info -->
     <div class="row align-items-center mb-5">
       <div class="col-xl-3 order-1 col-sm-6 mb-4 mb-xl-0">
-        <h2>{{ .Title }}</h2>
+        <h4>{{ .Title }}</h4>
       </div>
       <div class="col-xl-6 order-sm-3 order-xl-2 col-12 order-2">
         <ul class="list-inline text-xl-center">
@@ -21,7 +21,7 @@
             <div class="d-flex align-items-center">
               <i class="ti-calendar text-primary icon-md mr-2"></i>
               <div class="text-left">
-                <h6 class="mb-0">{{ i18n "duration" | upper }}</h6>
+                <h6 class="mb-0">{{ i18n "开课学期" | upper }}</h6>
                 <p class="mb-0">{{ .Params.Duration }}</p>
               </div>
             </div>
@@ -30,7 +30,7 @@
             <div class="d-flex align-items-center">
               <i class="ti-timer text-primary icon-md mr-2"></i>
               <div class="text-left">
-                <h6 class="mb-0">{{ i18n "weekly" | upper }}</h6>
+                <h6 class="mb-0">{{ i18n "周学时" | upper }}</h6>
                 <p class="mb-0">{{ .Params.Weekly }}</p>
               </div>
             </div>
