@@ -3,6 +3,10 @@ title: 中心介绍
 bg_image: images/backgrounds/page-title.jpg
 image: images/about/about-page.jpg
 description: ''
+menu:
+  main:
+    parent: 关于我们
+    weight: 1
 
 ---
 ## 中心介绍
