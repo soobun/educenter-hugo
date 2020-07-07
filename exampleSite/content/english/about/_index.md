@@ -1,6 +1,7 @@
 ---
 title: 中心介绍
 bg_image: images/about/about-page.jpg
+image: images/about/computer_building.jpg
 description: ''
 menu:
   main:
@@ -9,6 +10,8 @@ menu:
 
 ---
 ## 中心介绍
+
+**_华东师范大学数据科学与工程学院 高性能计算中心暨大学计算机科学教育教学部_**
 
 华东师范大学计算中心于1984年在世界银行贷款下建立，是学校的公共计算机教学与实践基地，也是开展计算机应用技术的研究与开发基地。
 
