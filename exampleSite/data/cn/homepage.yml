@@ -53,7 +53,7 @@ about:
     label: Learn more
     link: about
 course:
-  enable: true
+  enable: false
   title: 课程设置
 cta:
   enable: false
@@ -73,7 +73,7 @@ success_story:
     ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
   video_link: https://www.youtube.com/watch?v=ResipmZmpDU
 event:
-  enable: true
+  enable: false
   title: 相关活动
 funfacts:
   enable: true
@@ -88,4 +88,7 @@ funfacts:
     count: "3500"
 blog:
   enable: true
-  title: 新闻公告
+  title: 新闻
+notice:
+  enable: true
+  title: 通知公告

@@ -204,4 +204,23 @@
 {{ end }}
 <!-- /blog -->
 
+<!-- notice -->
+{{ if $data.homepage.notice.enable }}
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <ul class="list-unstyled">
+          <!-- notice item -->
+          {{ range first 5 .Data.Pages }}
+          {{ .Render "notice" }}
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+<!-- /notice -->
+
 {{ end }}
