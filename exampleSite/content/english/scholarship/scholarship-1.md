@@ -1,17 +1,16 @@
 ---
-title: "CHEMICAL ENGINEERING"
+title: "高性能计算中心"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # scholarship image
-image: "images/scholarship/scholarship-item-1.jpg"
+image: "images/about/hpc_room.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : ""
 ---
 
-* institutes
-* Smart-affiliated research
-* Digital Access to Scholarship
-* Smart Catalyst
-* Smart Library Portal
-* Smart research programs
+* 共建设9期计算集群
+* 高可靠CPU并行计算
+* GPU深度学习平台
+* 高性能计算培训
+* 支撑全校科研教学
