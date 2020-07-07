@@ -1,23 +1,22 @@
 ---
-title: "About Us"
-draft: false
-# page title background image
-bg_image: "images/backgrounds/page-title.jpg"
-# about image
-image: "images/about/about-page.jpg"
-# meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+title: 中心介绍
+bg_image: images/backgrounds/page-title.jpg
+image: images/about/about-page.jpg
+description: ''
+
 ---
+## 中心介绍
 
-## ABOUT OUR JOURNY
+华东师范大学计算中心于1984年在世界银行贷款下建立，是学校的公共计算机教学与实践基地，也是开展计算机应用技术的研究与开发基地。
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet consectetur,
-adipisicing elit. Saepe ipsa illo quod veritatis, magni debitis fugiat dolore voluptates! Consequatur,
-aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat perferendis sint optio similique.
-Et amet magni facilis vero corporis quos.
+计算中心面向全校公共计算机基础教育，拥有1500台教学用计算机和服务器近50台硬软件环境，分布于闵行校区和中山北路校区，每年大约有1000余名研究生，3000余名本科生在计算中心接受计算机应用基础的教育，同时每年为全校约4500名本硕学生提供教学服务机时约240万课时。计算中心成立以来无一例教学事故，达到优秀运行水平，并在2006年教育部本科教学水平评估中获得优秀荣誉。2010年获华东师范大学实验室工作先进集体奖，已经编写的系列教材《计算机应用基础教程》在2011年获得上海市普通高校优秀教材奖二等奖，《大学计算机》课程已入选2013年度上海市精品课程，2013年获高等教育上海市级教学成果奖二等奖，2014年获华东师范大学教学成果奖一等奖；培训学生参加各类竞赛，获得国家和上海市奖项60多项。
 
-exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
-in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum, dolor sit amet consectetur
-adipisicing elit. Ipsum a, facere fugit error accusamus est officiis vero in, nostrum laboriosam corrupti
-explicabo, cumque repudiandae deleniti perspiciatis quae consectetur enim. Laboriosam!
+此外计算中心还为上海市全日制高考阅卷，上海市成人高考阅卷，研究生入学考试阅卷，上海市高等学校计算机等级考试、学校的普通话测试、心里测试、网上招生、网上选课等提供技术支持服务，并受到好评。同时，计算中心还负责建设与运行面向全校科研开放的高性能计算公共平台。该平台性能优越可靠，属于曙光5000系列计算机和IBM高性能计算集群，拥有552个计算结点，运算峰值速度为172Tflops（Floating-point operations per second）。其应用领域涉及计算物理、计算化学、分子动力学、地球物理、大气环境研究、材料设计、信息科学、密码学、并行符号计算、光谱学以及波谱学等重要学科。
+
+计算中心也是学校计算机应用技术和计算机技术硕士研究生的培养点，在计算机网络技术及应用、图像处理和模式识别、智能计算与机器学习、现代教育技术与应用、现代软件技术、WEB应用技术等研究方向开展研究和研究生培养。目前有在学研究生63名。
+
+计算中心在承担计算机公共教学任务同时，也是学校的一个计算机应用技术方面的科学研究与科技开发基地。每年承担的科研与开发项目有十余项，涉及云存储在教育行业中的应用、智能计算与智能系统研究、图像处理与模式识别、Web应用技术研究、软件设计方法研究、物流系统研究、大型软件压力测试研究等。
+
+计算中心现在有教授级高级工程师：2名，副教授与高级工程师：12名，总教职员工：41名。
+
+今天的华东师范大学计算中心已经是学校的一个强大的教学、实践、研究与开发基地。她有一支教学经验丰富，教育质量优秀的信息科技方面的教师队伍；还有一支有真才实学，具有实际经验与国际合作能力的信息技术方面的研究与开发队伍；计算中心的大学计算机基础课程教学能力和计算机应用技术方面的研究开发成果在上海地区的高校中名列前茅。计算中心的教学、实践和科研设备与环境条件也在不断的完善与提高中。计算中心期望着未来更进一步的发展。
