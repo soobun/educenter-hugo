@@ -6,7 +6,10 @@
 <section class="section">
   <div class="container">
     <div class="row mb-5">
-      <div>
+      <div class="col-md-6 mb-4 mb-md-0">
+        <img class="img-fluid" src="{{ .Params.Image | relURL }}" alt="计算机楼">
+      </div>
+      <div class="col-md-6 content">
         {{ .Content }}
       </div>
     </div>
