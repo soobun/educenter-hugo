@@ -1,7 +1,6 @@
 ---
 title: 中心介绍
-bg_image: images/backgrounds/page-title.jpg
-image: images/about/about-page.jpg
+bg_image: images/about/about-page.jpg
 description: ''
 menu:
   main:
