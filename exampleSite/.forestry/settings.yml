@@ -5,6 +5,16 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: exampleSite/content/english/research
+  label: 科研
+  create: all
+  match: "**/*"
+- type: directory
+  path: exampleSite/content/english/notice
+  label: 通知公告
+  create: all
+  match: "**/*"
+- type: directory
   path: exampleSite/content/english/contact
   label: 联系我们
   create: all
