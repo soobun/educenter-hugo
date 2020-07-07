@@ -62,13 +62,6 @@ name = "平台概况"
 parent = "高性能计算"
 weight = 1
 [[menu.main]]
-name = "课程设置"
-parent = "大学计算机科学教育"
-weight = 1
-[[menu.main]]
-name = "联系我们"
-weight = 6
-[[menu.main]]
 URL = "about"
 name = "关于我们"
 weight = 1
@@ -78,9 +71,6 @@ weight = 5
 [[menu.main]]
 name = "高性能计算"
 weight = 4
-[[menu.main]]
-name = "教职员工"
-weight = 3
 [[menu.main]]
 name = "新闻公告"
 weight = 2
