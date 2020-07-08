@@ -11,7 +11,7 @@ image: "images/courses/data-analysis-1.png"
 # taxonomy
 category: "通识必修课"
 # teacher
-teacher: "余青松"
+teacher: "李智能"
 # duration
 duration : "秋季学期"
 # weekly

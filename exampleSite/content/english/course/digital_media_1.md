@@ -11,7 +11,7 @@ image: "images/courses/media1.png"
 # taxonomy
 category: "通识必修课"
 # teacher
-teacher: "苏斌"
+teacher: "张三"
 # duration
 duration : "秋季学期"
 # weekly
