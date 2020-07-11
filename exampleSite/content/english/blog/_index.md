@@ -1,7 +1,7 @@
 ---
-title: Latest News
+title: 新闻
 bg_image: images/backgrounds/page-title.jpg
-description: this is meta description
+description: ""
 menu:
   main:
     name: 新闻
